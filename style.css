@@ -11,6 +11,10 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 /* Next & previous buttons */
 .prev, .next {
